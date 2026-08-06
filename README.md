@@ -1,5 +1,7 @@
 # stale
 
+[![Release](https://img.shields.io/github/v/release/libnudget/stale?logo=github&label=latest)](https://github.com/libnudget/stale/releases)
+
 Reusable GitHub Action for closing stale issues after a period of inactivity.
 
 ## Usage
