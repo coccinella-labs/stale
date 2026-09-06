@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/stale/main/.github/assets/thumbnail.png" alt="stale" width="100%">
+</p>
+
 # stale
 
 [![Release](https://img.shields.io/github/v/release/libnudget/stale?logo=github&label=latest)](https://github.com/libnudget/stale/releases)
