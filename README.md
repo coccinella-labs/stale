@@ -4,7 +4,7 @@
 
 # stale
 
-[![Release](https://img.shields.io/github/v/release/libnudget/stale?logo=github&label=latest)](https://github.com/libnudget/stale/releases)
+[![Release](https://img.shields.io/github/v/release/coccinella-labs/stale?logo=github&label=latest)](https://github.com/coccinella-labs/stale/releases)
 
 Reusable GitHub Action for closing stale issues after a period of inactivity.
 
@@ -26,7 +26,7 @@ jobs:
   close-stale-issues:
     runs-on: ubuntu-latest
     steps:
-      - uses: libnudget/stale@v1
+      - uses: coccinella-labs/stale@v1
 ```
 
 ## Inputs
